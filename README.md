@@ -15,6 +15,7 @@ mariacarolina10.github.com
 <a href="https://github.com/mariacarolina10/mariacarolina10.github.com/blob/master/README.md">minha página!</a>
 
 <a href="https://github.com/mariacarolina10/mariacarolina10.github.com/blob/master/README.md"> my page!</a>
+</html>
 
 import random
 perguntas_fácil = (
